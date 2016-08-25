@@ -24,8 +24,7 @@
 	border-bottom:2px solid #eee;
 }
 .lefttop-container p{
-	white-space:pre;
-	margin-left:5px;
+	margin:12% 0 0 2%;
 }
 .more{
 	margin:5% 0 0 70%;
@@ -37,29 +36,31 @@
 }
 .student{
 	position:absolute;
-	top:24%;
+	top:27%;
 	left:30%;
 	width:155px;
-	height:20px;
+	height:30px;
 }
 .form-input{
 	position:absolute;
-	top:45%;
+	top:49%;
 	left:30%;
 	width:150px;
 	height:20px;
 }
 .form-password{
 	position:absolute;
-	top:66%;
+	top:68%;
 	left:30%;
 	width:150px;
 	height:20px;
 }
 .form-submit{
 	position:absolute;
-	top:78%;
-	left:74%;
+	top:81%;
+	left:44%;
+	width:80px;
+	height:30px;
 }
 .leftbottom-container p{
 	margin-top:-4%;
