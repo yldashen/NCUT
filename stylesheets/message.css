@@ -1,0 +1,111 @@
+.container{
+	color:black;
+}
+.container a {
+	color:red;
+}
+.container a:hover{
+	text-decoration:underline;
+}
+.container p{
+	white-space:pre;
+}
+.left-container{
+	float:left;
+	margin-left:10%;
+	width:254px;
+	height:470px;
+	border-left:3px solid #0f729c;
+	border-right:3px solid #0f729c;
+}
+.lefttop-container{
+	position:relative;
+	height:250px;
+	border-bottom:2px solid #eee;
+}
+.lefttop-container p{
+	white-space:pre;
+	margin-left:5px;
+}
+.left-container form h2{
+	text-align:center;
+	font-size:12px;
+	color:rgb(0, 0, 128);
+}
+.student{
+	position:absolute;
+	top:24%;
+	left:30%;
+	width:155px;
+	height:20px;
+}
+.form-input{
+	position:absolute;
+	top:45%;
+	left:30%;
+	width:150px;
+	height:20px;
+}
+.form-password{
+	position:absolute;
+	top:66%;
+	left:30%;
+	width:150px;
+	height:20px;
+}
+.form-submit{
+	position:absolute;
+	top:78%;
+	left:74%;
+}
+.leftbottom-container p{
+	margin-top:-4%;
+	white-space:pre;
+}
+.middle-container{
+	float:left;
+	margin-left:1%;
+	width:440px;
+	height:470px;
+}
+.middle-news{
+	width:440px;
+	height:300px;
+	border:2px solid #b5b5b5;
+}
+.right-container{
+	float:right;
+	margin-right:9%;
+	width:354px;
+	height:470px;
+}
+.right-container ul li{
+	margin-top:3px;
+}
+.container h2{
+	font-size:18px;
+	line-height:43px;
+	white-space:pre;
+	color:black;
+}
+.about-img{
+	margin-top:20px;
+}
+.rightbottom-container li{
+	color:blue;
+	margin-top:3px;
+}
+table{
+	margin-top:20px;
+	width:443px;
+	text-align:center;
+}
+table th{
+	font-size:12px;
+	text-align:center;
+}
+.table-th{
+	color:#0f729c;
+	position:relative;
+	left:-2%;
+}

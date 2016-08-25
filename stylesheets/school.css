@@ -1,0 +1,78 @@
+h1{
+	margin-bottom:-4%;
+}
+h2{
+	margin:-2% 0 -2% 0;
+}
+.container{
+	color:black;
+}
+.base{
+	margin:0 auto;
+	width:1073px;
+	white-space:pre;
+	font:bold 18px "楷体";
+}
+.base img{
+	float:left;
+}
+.culture-background{
+	width:100%;height:100%;
+	background:#eee;
+}
+.culture{
+	margin:0 auto;
+	width:1073px;
+	white-space:pre;
+	font:bold 18px "楷体";
+}
+.culture-top img{
+	float:right;
+	margin-top:-400px;
+}
+.culture-bottom img{
+	float:left;
+}
+.food-background{
+	background:white;
+}
+.food{
+	margin:0 auto;
+	width:1073px;
+	background:white;
+	font:bold 18px "楷体";
+}
+.food ul li{
+	display:inline-block;
+	width:500px;
+	white-space:pre;
+}
+.food-image{
+	margin-top:30px;
+}
+.food-image ul li{
+	margin:20px 0 20px 10px;
+	display:inline-block;
+	width:320px;
+}
+.location-background{
+	background:#eee;
+}
+.location{
+	margin:0 auto;
+	width:1073px;height:600px;
+	background:#eee;
+}
+.location img{
+	float:left;
+	margin:60px 20px 0 0;
+}
+.location h2{
+	margin-top:70px;
+	font:bold 30px "楷体";
+}
+.location p{
+	margin-top:20px;
+	white-space:pre;
+	font:bold 18px "楷体";
+}
